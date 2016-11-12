@@ -1,5 +1,3 @@
-TODO : Speech Recognition
-
 # PythonPersonalAssistance
 
 Personal Assistance written in Python.
@@ -43,3 +41,8 @@ Once you signed up, log in and click "Get an AppID" button.
 Enter Application Name and Description, after got your key, copy and paste in python code.
 
 Have fun!
+
+# TODO
+<ul>
+<li>Speech Recognition</li>
+</ul>
