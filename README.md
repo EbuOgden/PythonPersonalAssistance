@@ -32,6 +32,8 @@ After that, open terminal in this directory and change the chmod of script to 70
 
 Now you can type <code>./install.sh</code> in terminal
 
+<hr>
+
 Once you open the python file, you need to change the <code>wolframalpha_appId</code> variable. For this process you need the wolframalpha API key.
 
 Enter <code>http://products.wolframalpha.com/api/</code> and Sign Up Here.
