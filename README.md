@@ -18,7 +18,7 @@ Wikipedia => <code>sudo pip install wikipedia</code>
 
 Wolframalpha => <code>sudo pip install wolframalpha</code>
 
-<br>
+<hr>
 
 Or you can use install.sh bash script.
 
