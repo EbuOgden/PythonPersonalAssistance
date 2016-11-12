@@ -8,7 +8,7 @@ You can search mathematical equations or any info from Wolframalpha & Wikipedia
 
 Firstly, you should install <b>Pip</b> after that <b>wolframalpha</b> and <b>wikipedia</b> packages by Pip
 
-Navigate your folder to the folder which you put python assistance code and type these commands in terminal;
+Open terminal and Navigate to the folder which you put python assistance code and type these commands in terminal;
 
 PiP is already installed in Windows OS by python,
 
