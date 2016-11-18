@@ -53,8 +53,5 @@ class MainGUI():
             answerText.insert(INSERT, input + ", Answer is : " + answer)
             answerText.pack()
 
-            #answerlabel = Label(answerWindow, text=answer, justify=LEFT, wraplength=500) # ANSWER_MESSAGE
-            #answerlabel.pack()
-
 if __name__ == "__main__":
         MainGUI()
