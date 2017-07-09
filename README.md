@@ -24,7 +24,7 @@ Or you can use install.sh bash script.
 
 If you want to use script you should;
 
-Copy the script to the folder which you putted python assistance code,
+Copy the script to the folder which you have put python assistance code,
 
 Right click the script and click "Get Info", on the bottom you will see Lock icon, click it and unlock by typing your password
 
